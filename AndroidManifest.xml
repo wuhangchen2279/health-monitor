@@ -34,7 +34,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
     android:name="com.google.android.maps.v2.API_KEY"
-    android:value="AIzaSyAGN-Q6DoDim9msBZn_3jC9aieNYqSjJ8k" />
+    android:value="" />
         
         <activity
             android:name="com.hwu65.mobilehealthmonitor.MainActivity"

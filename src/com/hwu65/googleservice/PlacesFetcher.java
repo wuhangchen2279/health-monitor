@@ -20,7 +20,7 @@ import com.google.android.gms.maps.model.LatLng;
 import android.os.StrictMode;
 
 public class PlacesFetcher {
-	private static final String API_KEY = "AIzaSyDwaMjhTN9BZgvmcg-hbSGJrMdZy9X6ZBs";
+	private static final String API_KEY = "";
 	private static final String RETURN_TYPE = "hospital";
 	private static final String RETURN_RADIOUS = "5000";
 	
